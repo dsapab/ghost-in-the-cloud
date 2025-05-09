@@ -1,21 +1,24 @@
-# Repo-template
+# Ghost in the Cloud
 
-![Image Alt Text](./path-to-image)
+<!-- ![Image Alt Text](./path-to-image) -->
 
-Brief intro - one liner
+Create an ephemeral and sand-boxed laboratory for testing and experimenting with IT security tools.
 
+## Index
 
-- [Index](#index)
+- [Pre-requisites](#pre-requisites)
+- [Deploy](#deploy)
 - [Contributing](#contributing)
 - [Code of conduct](#code-of-conduct)
 - [License](#license)
 
+## Pre-requisites
 
-## Index
+WIP
 
-1. Item 1
-2. Item 2
+## Deploy
 
+WIP
 
 ## Contributing
 
